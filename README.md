@@ -30,12 +30,10 @@ from moviepy.editor import VideoFileClip
 
 # Relevant Links
 
-- Medium article 
-- - https://medium.com/@mithi/advanced-lane-finding-using-computer-vision-techniques-7f3230b6c6f2
-- Submitted detailed technical writeup 
-- - https://github.com/mithi/advanced-lane-detection/blob/master/WRITEUP.pdf
-- Udacity's project page
-- - https://github.com/udacity/CarND-Advanced-Lane-Lines
+- [Medium article](https://medium.com/@mithi/advanced-lane-finding-using-computer-vision-techniques-7f3230b6c6f2)
+
+- [Submitted detailed technical writeup](https://github.com/mithi/advanced-lane-detection/blob/master/WRITEUP.pdf)
+- [Udacity's project page](https://github.com/udacity/CarND-Advanced-Lane-Lines)
 
 # RELEVANT FILES
 
